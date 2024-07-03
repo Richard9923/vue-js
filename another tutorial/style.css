@@ -10,27 +10,33 @@ body {
     align-items: center;
 }
 
+
+
 #app {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 2vh;
     
 }
 
 .male {
     background-color: lightblue;
     color: black;
-    padding: 4px;
+    padding: 8px;
     border-radius: 6px;
     border: none;
-    width: 100px;
+    width: 150px;
+
 }
 
 .female {
     background-color: pink;
     color: black;
-    padding: 4px;
+    padding: 8px;
     border-radius: 6px;
     border: none;
-    width: 100px;
+    width: 150px;
+
 }
+
